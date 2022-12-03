@@ -19,7 +19,7 @@ warning: be sure to add `/root/.cargo/bin` to your PATH to be able to run the in
 /root/.local/bin:/root/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/.cargo/bin/
 
 ```
-
+ #### Tree strucrure. The level determines the depth of the listing; this is set to two. If you want to list more subdirectories and files, increase the level's value.
 
 ![exa1](https://github.com/Tuttu7/exa-/blob/main/Screenshot%20from%202022-12-03%2012-30-27.png)
 
