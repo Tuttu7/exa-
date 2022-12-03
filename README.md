@@ -31,3 +31,8 @@ exa -T
 
 ![exa2](https://github.com/Tuttu7/exa-/blob/main/Screenshot%20from%202022-12-03%2012-32-20.png)
 
+
+#### Exploring xattrs (extended file attributes) in exa, --extended 
+
+![exa3](https://github.com/Tuttu7/exa-/blob/main/Screenshot%20from%202022-12-03%2012-44-36.png)
+
