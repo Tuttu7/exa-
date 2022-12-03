@@ -23,6 +23,9 @@ warning: be sure to add `/root/.cargo/bin` to your PATH to be able to run the in
 
 ![exa1](https://github.com/Tuttu7/exa-/blob/main/Screenshot%20from%202022-12-03%2012-30-27.png)
 
+
+ #### To list directories and subdirectories recursively, you can --recurse or -R option. It creates a separate listing for each sub-directory
+
 ![exa2](https://github.com/Tuttu7/exa-/blob/main/Screenshot%20from%202022-12-03%2012-31-47.png)
 
 ```
